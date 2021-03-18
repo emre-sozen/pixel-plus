@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap");
+.bg-footer {
+  background-color: #353854; }
+
+.text-white {
+  color: #fff; }
+
+.text-black-blur {
+  color: #7e8c91; }
+
+.text-blue {
+  color: #648cff; }
+
+.text-purple {
+  color: #648cff; }
+
+.text-grey {
+  color: #999999; }
+
+.text-grey-blur {
+  color: #aeaeae; }
+
+.text-blur-blue {
+  color: #353854; }
+
+.bold {
+  font-weight: bold; }
+
+.fs-15 {
+  font-size: 15px; }
+
+.fs-17 {
+  font-size: 17px; }
+
+.fs-18 {
+  font-size: 18px; }
+
+.fs-20 {
+  font-size: 20px; }
+
+.fs-25 {
+  font-size: 25px; }
+
+.fs-30 {
+  font-size: 30px; }
+
+.fs-50 {
+  font-size: 50px; }
+
+.fw-400 {
+  font-weight: 400; }
+
+.ls-2 {
+  letter-spacing: 2px; }
+
+.lh-15 {
+  line-height: 20px; }
+
+.lh-25 {
+  line-height: 25px; }
+
+.lh-55 {
+  line-height: 55px; }
+
+.ubuntu {
+  font-family: 'Ubuntu', sans-serif; }
