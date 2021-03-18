@@ -1,7 +1,11 @@
 # pixel-plus
 
 Mümkün mertebe clean code yazmaya çalıştım. Normalde projelerimde yoğun bir şekilde bootstrap kullandığım için, bu projeyi yaparken biraz zorlandım. Ama hemen alıştım. Responsive konusunda
-biraz daha kendimi geliştirebilirim. SCSS yazımım da aynı şekilde çok kısa sürede geliştireceğim. Kendimi geliştirmeyi ve güncel teknolojileri öğrenmyi seviyorum.
+biraz daha kendimi geliştirebilirim. SCSS yazımım da aynı şekilde çok kısa sürede geliştireceğim.
+
+Slider alanı için bu tipte bir tasarım kullanmamıştım şimdiye kadar. Ancak o tasarımı da yapabilirim.
+
+Kendimi geliştirmeyi ve güncel teknolojileri öğrenmyi seviyorum.
 
 Umarım beğenirsiniz. Bootatrap kullanmadığım için biraz acemiliğime geldi. O da zamanla oturacaktır.
 
